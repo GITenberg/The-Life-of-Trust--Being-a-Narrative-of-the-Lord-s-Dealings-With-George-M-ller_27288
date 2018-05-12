@@ -1,0 +1,39 @@
+_repo: The-Life-of-Trust--Being-a-Narrative-of-the-Lord-s-Dealings-With-George-M-ller_27288
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Müller, George
+    aliases:
+    - Müller, Georg Friedrich
+    - Muller, George
+    - Mueller, George
+    birthdate: 1805
+    deathdate: &id001 1898
+    gutenberg_agent_id: '9183'
+    url: http://www.gutenberg.org/2009/agents/9183
+    wikipedia: http://en.wikipedia.org/wiki/George_M%C3%BCller
+  editor:
+    agent_name: Wayland, H. L. (Heman Lincoln)
+    alias: Wayland, Heman Lincoln
+    birthdate: 1830
+    deathdate: *id001
+    gutenberg_agent_id: '32597'
+    url: http://www.gutenberg.org/2009/agents/32597
+description: ''
+gutenberg_issued: '2008-11-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27288'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Orphanages -- Great Britain'
+- !lcsh 'Prayer'
+- !lcc 'HV'
+title: 'The Life of Trust: Being a Narrative of the Lord''s Dealings With George Müller'
+url: http://www.gutenberg.org/ebooks/27288
